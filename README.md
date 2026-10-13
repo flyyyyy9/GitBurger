@@ -6,7 +6,7 @@ Découvrez notre recette de hamburger maison.
 
 ## Notre recette
 
-* Pain burger
+* Pain burger 
 * Steak
 * Salade
 * Tomate
